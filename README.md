@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @rishir9097
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning React Js
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 rishisvm@gmail.com.
 
 <!---
